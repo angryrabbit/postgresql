@@ -1,0 +1,1 @@
+Hello. Enjoy the PostgreSQL.
